@@ -1,3 +1,3 @@
 # algorithm-practise
-SOME PRACTISE
+SOME PRACTISE\n
 just for fun
